@@ -8,7 +8,7 @@ import { SubscriptionFormComponent } from "./subscription-form/subscription-form
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, HeaderComponent, CategoryNavbarComponent, FooterComponent, PostCardComponent, SubscriptionFormComponent],
+  imports: [RouterOutlet, HeaderComponent, CategoryNavbarComponent, FooterComponent, SubscriptionFormComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
